@@ -1,7 +1,7 @@
 # Spotify Songs Analysis Power BI Dashboard
 
 ## Project Overview
-This project presents an interactive dashboard built using Microsoft Power BI to analyze Spotify song data from 2015–2025. The dashboard analyzes 18,000+ songs to identify music trends, artist performance, and genre distribution using data visualization techniques.
+This project presents an interactive dashboard built using Microsoft Power BI to analyze Spotify song data from 2015–2025. The dashboard analyzes 85,000+ songs to identify music trends, artist performance, and genre distribution using data visualization techniques.
 
 ## Objectives
 - Analyze Spotify music data to identify listening trends
